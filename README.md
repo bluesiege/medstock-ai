@@ -44,18 +44,6 @@ MedStock AI solves both failures simultaneously through four mechanisms working 
 
 ---
 
-## 🖥️ Screenshots
-
-| Homepage | Pharmacist Dispense | Manager Dashboard |
-|---|---|---|
-| Split-screen login | Live search + FEFO queue | Collapsible alerts + stock table |
-
-| ML Forecast | Customer Store | Admin Waste Analytics |
-|---|---|---|
-| 4-algorithm comparison | 265 medicines + cart | Expired stock tracking |
-
----
-
 ## 🏗️ Tech Stack
 
 ```
